@@ -1,0 +1,66 @@
+/*Travis Nickerson
+    CSD 340
+    June 13th, 2021
+    Assignment 3
+    Github: https://github.com/tnickerson10/csd-340
+*/
+html, body {
+    font-size: 16px;
+}
+
+p {
+    font-family: 'Quattrocento', Georgia, 'Times New Roman', serif;
+    font-weight: 400;
+    line-height: 1.4em;
+}
+
+h1, h2 {
+    font-family: "Oswald", Verdana, Arial, sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 3.052em;
+    word-spacing: .5em;
+    margin: 0px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 2.441em;
+    word-spacing: .2em;
+    margin:0px;
+    text-align: left;
+    padding-top: 15px;
+}
+
+address {
+    font-family: 'Quattrocento', Georgia, 'Times New Roman', serif;
+    text-align: center;
+}
+
+address a {
+    font-weight: bold;
+    font-size: 1.25em;
+    color: #4F3674;
+    text-decoration: none;
+}
+
+address a:hover {
+    text-decoration: underline;
+    background-color: #D6A800;
+}
+
+address a:visited {
+    color: red;
+}
+
+.sentence {
+    font-style: italic;
+}
+
+.intro {
+    text-indent: 2em;
+}
